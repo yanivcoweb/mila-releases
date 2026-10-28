@@ -1,2 +1,5 @@
-# mila-releases
-Mila installers and auto-update feed
+# מִלָּה — קובצי התקנה
+
+כאן מתפרסמות גרסאות ההתקנה של מִלָּה, אפליקציית Windows לתמלול שיחות בעברית.
+
+להתקנה: בדף [הגרסה האחרונה](https://github.com/yanivcoweb/mila-releases/releases/latest) להוריד את `Mila-<גרסה>-Setup.exe` ולהריץ אותו. אחרי ההתקנה האפליקציה מתעדכנת מעצמה.
